@@ -50,4 +50,4 @@ Ideally your solution would have some way to run locally and visualize the resul
 
 # Submitting your exercise
 
-1. See [instructions for submitting your work](#general-instructions)
+1. See [instructions for submitting your work](/#general-instructions)
